@@ -1,5 +1,5 @@
 # NikkeMod
-NIKKE：胜利女神 仅测试了国际服 未测试免ROOT模式兼容性
+NIKKE：胜利女神 仅测试了国际服(日/韩/美/东南亚/全球) 未测试免ROOT模式兼容性
 
 ## 客户端
 国际服 (com.proximabeta.nikke): http://m.isassr.com/28617
